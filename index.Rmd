@@ -1,16 +1,33 @@
 ---
-title: "My Website"
 author: "Veera Lampinen"
-date: "2022-10-31"
-output: html_document
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: cosmo  
+    css: style.css
+navbar:  
+  title: "Veera Lampinen"  
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
+# Veera Lampinen
 
-I am a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with [Chiara Horlin](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/chiarahorlin/). lol
+I am a current postgraduate taught student in the University of Glasgow's
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/), currently working with [Dr Chiara Horlin](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/chiarahorlin/).
 
-I am interested in researching the lived experiences of queer and neurodivergent students in higher education. 
+## Research Interests 
+
+I am interested in researching the lived experiences of queer and neurodivergent students in higher education. More speficially, my current project is exploring how student who identify as both queer and neurodivergent experience the intersection of both identities in relation to higher education. 
+
+## Education
+
+* 2022-2023: MSc Research Methods of Psychological Science, [University of Glasgow](http://www.gla.ac.uk/).
+
+* 2018-2022: Master of Arts in Psychology, [University of Aberdeen](http://www.abdn.ac.uk/). 
+
+
+
+
