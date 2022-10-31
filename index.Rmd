@@ -11,4 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with [Chiara Horlin](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/chiarahorlin/)
+I work with [Chiara Horlin](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/chiarahorlin/). 
+
+I am interested in researching the lived experiences of queer and neurodivergent students in higher education. 
